@@ -10,7 +10,7 @@
 + API RESTful
 + IDE Eclipse
 
-## Funções desenvolvidadas:
+## Funções desenvolvidas:
 
 + GET - Filtrar clientes e pedidos
 + POST - Criação de novos usuários
